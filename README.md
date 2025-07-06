@@ -1,4 +1,9 @@
+<img alt="Cargo cult antenna image" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh4.googleusercontent.com%2F__J-i4rrnJ5kgO03thJpYEGtmxWCQ43x7TY2SxT7PjN-f7NX2YQknXSwxH8xWXZmcqXGZ4bD168jq2DnJjOqSp4ARZ0CO82E6fTiGIEDfhQUZmT_x_CbWsw-rHtcdSvTn2O6B3LE&f=1&nofb=1&ipt=1e19859a5eb3eef4a17c0d2b02a64ef8842d420ab09cbba7b0d8856e52e29cbb)" width="256"/>
+Oli's royal NixOS configuration [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult#Postwar_developments) style modified by a nix beginner (ik weet nix). Slowly building an understanding...
 
+
+
+Original README:
 # NixOS à la Oli
 
 This repository describes my personal NixOS configuration, modules, and
