@@ -2,6 +2,8 @@
 
 Oli's royal NixOS configuration [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult#Postwar_developments) style modified by a nix beginner (ik weet nix). Slowly building an understanding...
 
+# Help I can explain! (can I?)
+
 
 
 Original README:
